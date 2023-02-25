@@ -30,7 +30,7 @@ require (
 	go.uber.org/multierr v1.7.0 // indirect
 	go.uber.org/zap v1.19.1
 	golang.org/x/net v0.0.0-20210916014120-12bc252f5db8 // indirect
-	golang.org/x/sys v0.0.0-20210915083310-ed5796bab164 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	google.golang.org/api v0.57.0 // indirect
 	google.golang.org/genproto v0.0.0-20210916144049-3192f974c780 // indirect
 	google.golang.org/protobuf v1.27.1
