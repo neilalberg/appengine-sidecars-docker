@@ -8,8 +8,7 @@ require (
 	github.com/aws/aws-sdk-go v1.40.44 // indirect
 	github.com/census-instrumentation/opencensus-proto v0.3.0
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect
-	github.com/containerd/containerd v1.5.7 // indirect
-	github.com/docker/docker v20.10.8+incompatible
+	github.com/docker/docker v20.10.24+incompatible
 	github.com/docker/go-connections v0.4.0 // indirect
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
 	github.com/go-logfmt/logfmt v0.5.1 // indirect
@@ -62,6 +61,7 @@ require (
 	github.com/matttproud/golang_protobuf_extensions v1.0.2-0.20181231171920-c182affec369 // indirect
 	github.com/mitchellh/copystructure v1.2.0 // indirect
 	github.com/mitchellh/reflectwalk v1.0.2 // indirect
+	github.com/moby/term v0.0.0-20200312100748-672ec06f55cd // indirect
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/coreinternal v0.35.0 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
 	github.com/opencontainers/image-spec v1.0.1 // indirect
@@ -84,8 +84,10 @@ require (
 	golang.org/x/oauth2 v0.0.0-20210819190943-2bc19b11175f // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
 	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/time v0.0.0-20200630173020-3af7569d3a1e // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/grpc v1.40.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gotest.tools/v3 v3.0.3 // indirect
 )
